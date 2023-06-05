@@ -1,0 +1,181 @@
+[
+    {
+        "ID": 1,
+        "Properties": [
+            {
+                "ID": 1,
+                "Code": "TITLE",
+                "Name": "Название",
+                "ProductID": 1,
+                "Value": [
+                    {
+                        "ID": 1,
+                        "PropertyID": 1,
+                        "Value": "Панкреатин"
+                    }
+                ]
+            },
+            {
+                "ID": 10,
+                "Code": "PRICE",
+                "Name": "Цена",
+                "ProductID": 1,
+                "Value": [
+                    {
+                        "ID": 10,
+                        "PropertyID": 10,
+                        "Value": "150"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Properties": [
+            {
+                "ID": 2,
+                "Code": "TITLE",
+                "Name": "Название",
+                "ProductID": 2,
+                "Value": [
+                    {
+                        "ID": 2,
+                        "PropertyID": 2,
+                        "Value": "Мезим"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "Properties": [
+            {
+                "ID": 3,
+                "Code": "TITLE",
+                "Name": "Название",
+                "ProductID": 3,
+                "Value": [
+                    {
+                        "ID": 3,
+                        "PropertyID": 3,
+                        "Value": "Селанк"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "Properties": [
+            {
+                "ID": 4,
+                "Code": "TITLE",
+                "Name": "Название",
+                "ProductID": 4,
+                "Value": [
+                    {
+                        "ID": 4,
+                        "PropertyID": 4,
+                        "Value": "Гептрал"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "Properties": [
+            {
+                "ID": 5,
+                "Code": "TITLE",
+                "Name": "Название",
+                "ProductID": 5,
+                "Value": [
+                    {
+                        "ID": 5,
+                        "PropertyID": 5,
+                        "Value": "Пантогам"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "Properties": [
+            {
+                "ID": 6,
+                "Code": "TITLE",
+                "Name": "Название",
+                "ProductID": 6,
+                "Value": [
+                    {
+                        "ID": 6,
+                        "PropertyID": 6,
+                        "Value": "Пиразидол"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 7,
+        "Properties": [
+            {
+                "ID": 7,
+                "Code": "TITLE",
+                "Name": "Название",
+                "ProductID": 7,
+                "Value": [
+                    {
+                        "ID": 7,
+                        "PropertyID": 7,
+                        "Value": "Конкор"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 8,
+        "Properties": [
+            {
+                "ID": 8,
+                "Code": "TITLE",
+                "Name": "Название",
+                "ProductID": 8,
+                "Value": [
+                    {
+                        "ID": 8,
+                        "PropertyID": 8,
+                        "Value": "Лориста"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 9,
+        "Properties": [
+            {
+                "ID": 9,
+                "Code": "TITLE",
+                "Name": "Название",
+                "ProductID": 9,
+                "Value": [
+                    {
+                        "ID": 9,
+                        "PropertyID": 9,
+                        "Value": "Нольпаза"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 10,
+        "Properties": null
+    }
+]
